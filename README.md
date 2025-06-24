@@ -8,11 +8,15 @@ You can then index the combined logs into your favorite analysis tool — I reco
 📸 Examples
 
 Input — Raw Logs (including .xz):
+
 ![image](https://github.com/user-attachments/assets/b8fbd9e0-46ac-4bd4-bc86-08d6f035a3ad)
 
 
 Output — Clean Combined File:
-![image](https://github.com/user-attachments/assets/6d483c97-6307-47b1-b15f-c801dd4a6f4b)
+
+![image](https://github.com/user-attachments/assets/63cdee57-b418-44b7-9ea6-5b9d001f4c28)
+
+
 Simple, single file to work with:
 
 
